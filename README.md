@@ -1,4 +1,4 @@
-# random_projects
+# IPA_game
 Personal projects that don't fit anywhere else! A collection of things I'm learning how do to.
 
 # IPA_Game.py
